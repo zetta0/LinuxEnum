@@ -1,2 +1,1 @@
-# LinuxEnum
-Linux
+LinuxEnum file for me to easily download
